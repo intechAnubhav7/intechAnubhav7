@@ -69,10 +69,6 @@ An AI/ML-based project focused on identifying potentially fraudulent transaction
 
 A project aimed at bringing useful developer/productivity tools together into one practical platform.
 
-### 🏫 Virtual Classroom
-
-A web-based virtual classroom project exploring the development of digital learning experiences.
-
 ### 📊 Data Science & Statistics Projects
 
 Hands-on work involving:
