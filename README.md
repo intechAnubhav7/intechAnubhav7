@@ -17,14 +17,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student specializing in Data Science**, interested in building practical software and AI-powered solutions.
+I'm a Computer Science student specializing in **Data Science**, focused on building practical **AI/ML and software solutions**.
 
 * 🔭 Currently working on **AI/ML & GenAI projects**
 * 🤖 Exploring **Transformers, LLMs and modern AI systems**
 * 🧠 Strengthening my foundations in **C, C++, DSA, Operating Systems & Computer Science**
 * 📊 Interested in **Data Science, Machine Learning and intelligent applications**
 * 💻 Building projects to turn concepts into **real-world working systems**
-* 🌱 Currently improving my skills across **AI + software development**
+* 🛠️ Building practical projects across **AI/ML, Data Science and software development**
 * 🤝 Open to collaborating on interesting **AI/ML, GenAI, Data Science and software projects**
 * ⚡ I believe the best way to learn technology is to **build with it**
 
